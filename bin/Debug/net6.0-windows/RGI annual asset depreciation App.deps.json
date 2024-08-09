@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RGI annual asset depreciation App/1.0.0": {
+        "runtime": {
+          "RGI annual asset depreciation App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RGI annual asset depreciation App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

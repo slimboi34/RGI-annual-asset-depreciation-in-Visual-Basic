@@ -1,0 +1,17 @@
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\bin\Debug\net6.0-windows\RGI annual asset depreciation App.exe
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\bin\Debug\net6.0-windows\RGI annual asset depreciation App.deps.json
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\bin\Debug\net6.0-windows\RGI annual asset depreciation App.runtimeconfig.json
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\bin\Debug\net6.0-windows\RGI annual asset depreciation App.dll
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\bin\Debug\net6.0-windows\RGI annual asset depreciation App.pdb
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.vbproj.AssemblyReference.cache
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI_annual_asset_depreciation_App.Form1.resources
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.vbproj.GenerateResource.cache
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.AssemblyInfoInputs.cache
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.AssemblyInfo.vb
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.vbproj.CoreCompileInputs.cache
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.dll
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\refint\RGI annual asset depreciation App.dll
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.pdb
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\RGI annual asset depreciation App.genruntimeconfig.cache
+C:\Users\ezra\Documents\Visual studio files\RGI annual asset depreciation App\obj\Debug\net6.0-windows\ref\RGI annual asset depreciation App.dll
